@@ -25,13 +25,13 @@ public class HomeWorkApp {
             System.out.println("a < b");
     }
     public static void main(String[] args){
-        //2 задание
+        //2 задание 
         printThreeWords();
-        //3 задание
+        //3 задание 
         checkSumSign(1, 7);
-        //4 задание
+        //4 задание 
         printColor(10);
-        //5 задание
+        //5 задание 
         compareNumbers(4, 4);
     }
 }
